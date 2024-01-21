@@ -12,6 +12,12 @@
 - [Return more than one element/component in JSX](./components-props-jsx.md#how-to---return-more-than-one-elementcomponent-in-jsx)
 - [Type props in TypeScript](./components-props-jsx.md#how-to---type-props-in-typescript)
 
+## Reusability Patterns
+
+- [Compound Components](./pattern-compound-component.md)
+- [Render Props](./pattern-render-props.md)
+- [Higher Order Components](./pattern-higher-order.md)
+
 ---
 
 [Back to main contents](../README.md)
