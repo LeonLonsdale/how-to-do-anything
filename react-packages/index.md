@@ -11,3 +11,15 @@
 ---
 
 [Back to main contents](../README.md)
+
+## React Hook Form
+
+- [Register form elements](./react-hook-form.md#how-to---register-your-form-elements)
+- [Handle form submissions](./react-hook-form.md#how-to---handle-form-submission)
+- [Reset form after submission](./react-hook-form.md#how-to---reset-form-after-submission)
+- [Validate form entries (client-side)](./react-hook-form.md#how-to---validate-entries-client-side)
+- [Handle Errors](./react-hook-form.md#how-to---handle-errors)
+
+---
+
+[Back to main contents](../README.md)

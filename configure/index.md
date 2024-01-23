@@ -1,4 +1,4 @@
-# React How-to's
+# Configurations
 
 ## Prettier
 
