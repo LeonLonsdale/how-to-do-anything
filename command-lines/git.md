@@ -1,13 +1,13 @@
 ## How to - Use Git & Github
 
 ```shell
-git status											# check working tree
-git add .                                           # add all updated documents to stage
-git add <file name> <file name>						# add specific files
-git commit											# opens editor for longer commits
-git commit -m 'message'                             # commit all staged changes
-git commit -a -m 'message'							# stage all files and commit
-git commit --amend									# amend a commit (only the last commit - add files before amending if necessary)
+git status                            # check working tree
+git add .                             # add all updated documents to stage
+git add <file name> <file name>       # add specific files
+git commit											      # opens editor for longer commits
+git commit -m 'message'               # commit all staged changes
+git commit -a -m 'message'						# stage all files and commit
+git commit --amend									  # amend a commit (only the last commit - add files before amending if necessary)
 
 
 git push origin main                                # push commited changes to main branch
